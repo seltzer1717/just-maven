@@ -29,9 +29,9 @@
   </developers>
 
   <scm>
-    <connection>scm:git:git://github.com/simpligility/ossrh-demo.git</connection>
-    <developerConnection>scm:git:ssh://github.com:simpligility/ossrh-demo.git</developerConnection>
-    <url>http://github.com/simpligility/ossrh-demo/tree/master</url>
+    <connection>scm:git:git://github.com/seltzer1717/just-maven.git</connection>
+    <developerConnection>scm:git:ssh://github.com/seltzer1717/just-maven.git</developerConnection>
+    <url>http://github.com/seltzer1717/just-maven/tree/master</url>
   </scm>
 
   <properties>
