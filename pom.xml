@@ -29,8 +29,8 @@
   </developers>
 
   <scm>
-    <connection>scm:git:git://github.com/seltzer1717/just-maven.git</connection>
-    <developerConnection>scm:git:ssh://github.com/seltzer1717/just-maven.git</developerConnection>
+    <connection>scm:git:https://github.com/seltzer1717/just-maven.git</connection>
+    <developerConnection>scm:git:https://github.com/seltzer1717/just-maven.git</developerConnection>
     <url>http://github.com/seltzer1717/just-maven/tree/master</url>
   </scm>
 
