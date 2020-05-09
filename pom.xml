@@ -31,7 +31,7 @@
   <scm>
     <connection>scm:git:https://github.com/seltzer1717/just-maven.git</connection>
     <developerConnection>scm:git:https://github.com/seltzer1717/just-maven.git</developerConnection>
-    <url>http://github.com/seltzer1717/just-maven/tree/master</url>
+    <url>https://github.com/seltzer1717/just-maven/tree/master</url>
   </scm>
 
   <properties>
